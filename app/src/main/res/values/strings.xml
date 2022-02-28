@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CompassApp</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="heading">HEADING:</string>
+    <string name="AppTitle">Compass App Lite</string>
+</resources>
